@@ -1,6 +1,6 @@
-# SparkSQL_SparkMLlib
-# Explanation of Hepatitis and Churn data
-### Hepatitis Dataset
+# SparkSQL and SparkMLlib
+### Explanation of Hepatitis and Churn data
+##### Hepatitis Dataset
 This dataset appears to contain information related to liver health. Here's a brief summary:
 
 The dataset includes information on various factors such as age, gender, treatment types (like steroid and antivirals usage), as well as symptoms and clinical measurements. 
@@ -48,7 +48,7 @@ Keep in mind that specific meanings may vary based on the context and source of 
 20. **Class**: This column likely represents the class or outcome of interest. It could indicate whether the patient was diagnosed with a specific condition or not. It is likely a categorical variable.
 
 
-### Churn Dataset
+##### Churn Dataset
 
 This dataset likely pertains to customer churn, containing information about customers, including factors like credit score, geography, gender, age, tenure, product holdings, and activity indicators. It also includes whether a customer exited, indicating potential churn.
 
