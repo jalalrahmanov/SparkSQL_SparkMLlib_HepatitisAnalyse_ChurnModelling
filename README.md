@@ -46,4 +46,37 @@ Keep in mind that specific meanings may vary based on the context and source of 
 
 20. **Class**: This column likely represents the class or outcome of interest. It could indicate whether the patient was diagnosed with a specific condition or not. It is likely a categorical variable.
 
-Please note that the actual meanings of these columns may vary depending on the context and source of the dataset. Always refer to the dataset's documentation or metadata for the most accurate information.
+
+# Churn Dataset
+
+This dataset likely pertains to customer churn, containing information about customers, including factors like credit score, geography, gender, age, tenure, product holdings, and activity indicators. It also includes whether a customer exited, indicating potential churn.
+
+Certainly! Here's an explanation of each of the columns in this dataset:
+
+1. **RowNumber**: This column likely represents a unique identifier for each row in the dataset. It may not contain meaningful information for analysis and could simply be an indexing number.
+
+2. **CustomerId**: This column likely contains a unique identifier for each customer. It is used to distinguish different customers from one another.
+
+3. **Surname**: This column probably represents the last name or surname of each customer. It is a categorical variable indicating the family name.
+
+4. **CreditScore**: This column is likely a numerical value representing the credit score of each customer. Credit scores are used to assess a person's creditworthiness.
+
+5. **Geography**: This column may indicate the geographic location or country associated with each customer. It is a categorical variable.
+
+6. **Gender**: This column likely represents the gender of each customer. It is a categorical variable, typically with values like 'Male' and 'Female'.
+
+7. **Age**: This column contains numerical values representing the age of each customer. It is a continuous variable.
+
+8. **Tenure**: This column might represent the number of years a customer has been with the bank or held an account. It is a numerical variable.
+
+9. **Balance**: This column is likely a numerical value indicating the account balance of each customer.
+
+10. **NumOfProducts**: This column may represent the number of different financial products (e.g., accounts, loans) that each customer has with the bank. It is a numerical variable.
+
+11. **HasCrCard**: This column is likely binary and may indicate whether a customer has a credit card with the bank. It's likely to have values like 'Yes' or 'No'.
+
+12. **IsActiveMember**: This column may indicate whether a customer is an active member of the bank (e.g., actively using their accounts and services). It's likely binary with values like 'Yes' or 'No'.
+
+13. **EstimatedSalary**: This column likely contains numerical values representing the estimated salary of each customer.
+
+14. **Exited**: This column may represent whether a customer has exited or closed their account with the bank. It's likely binary, with values indicating 'Yes' or 'No'.
